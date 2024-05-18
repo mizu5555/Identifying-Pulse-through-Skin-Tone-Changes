@@ -5,7 +5,7 @@
 * Macbook Pro M2
 * 高登心率儀(WowGoHealth Heart Rate Monitor)
 * 圓剛PW313 Live Streamer CAM
-* 
+  
 ## 環境與模組
 * Python: 3.9
 * IDE: VS Code
